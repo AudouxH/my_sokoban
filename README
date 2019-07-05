@@ -1,0 +1,21 @@
+This project name my_sokoban is a little game like real my_sokoban.
+for test it open map with the map.
+
+Exemple using :
+./my_sokoban map1.txt
+#############
+#   P     O #
+#        ####
+#           #
+#######     #
+#  O        #
+#           #
+#           #
+#           #
+#           #
+#       XX  #
+#           #
+#############
+
+Your goal is put the X which is a box on the O which is location.
+For that you can move with directional arrow in your keyboard.
